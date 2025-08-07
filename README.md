@@ -18,7 +18,7 @@ Este é um projeto simples feito em HTML, desenvolvido como parte dos meus estud
 
 ## 📷 Prévia do projeto
 
-![Prévia do projeto](caminho/para/screenshot.png) <!-- Altere o caminho se subir uma imagem do print -->
+![Prévia do projeto](screenshot.png)
 
 ## 📁 Como visualizar
 
