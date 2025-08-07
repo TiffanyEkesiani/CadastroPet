@@ -31,4 +31,10 @@ Ou acessar via GitHub Pages se estiver publicado.
 
 ---
 
-Feito com 💻 por **Tiffany Ekesiani**
+## 👩🏽‍💻 Desenvolvido por
+
+<p align="center">
+  <b style="color:#ff69b4">Tiffany Ekesiani</b> 🐾<br>
+  <a href="https://github.com/tiffanyekesiani" target="_blank">GitHub</a> |
+  <a href="https://www.linkedin.com/in/tiffanyekesiani" target="_blank">LinkedIn</a>
+</p>
